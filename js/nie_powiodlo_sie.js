@@ -1,0 +1,1 @@
+window.alert("Utworzenie konta nie powiodło się, spróbuj jeszcze raz");

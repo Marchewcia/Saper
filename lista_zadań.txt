@@ -1,0 +1,41 @@
+zrobić interfejs:
+	wybieranie ilości bomb
+	wybieranie wielkości planszy
+	reset	
+	start
+	timer (s)
+	leaderboard
+		wyświetlanie
+		zapisywanie do
+		wyjaśnienie co to punkty gry([ilość bomb*pole planszy]/czas)
+
+
+baza danych do:
+	max ilość bomb dla danej wielkości planszy (-, inaczej)
+	baza do leaderboarda (+)
+
+
+mechanizm
+	losowania gdzie są bomby
+	przypisywania numerków na podstawie bomb w pobliżu
+	gdy zostanie otwarta komórka pusta inne puste w danym obrzarze (połączone pośrednio[czyli tylko przez stykanie sięz innymi komórkamipistymi] i bezpośrednio się otwierają)
+	
+
+assety
+	grafika bomby(+/? do poprawy)
+	grafika flagi(+)
+	liczby 1-8(+)
+
+
+głupotki wizualne:
+	animacja konfetti-win 
+	animacja bomby gdy gracz trafia na bombe //+ leprzy ogień na knocie+ spalanie się knota przed wybuchem
+
+
+gorny pasek
+	logowanie
+	inne theme takie podobne jak ten ale inny kolorek
+
+
+głupotka
+	obsługa j. angielskiego

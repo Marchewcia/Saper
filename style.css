@@ -1,0 +1,112 @@
+body {
+    background-color: beige;
+    font-family: Helvetica;
+    color: darksalmon;
+    align-content: space-around;
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: bisque;
+    border: solid burlywood 10px;
+    margin: auto;
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    border: solid burlywood 2px;
+}
+
+.cen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.formy {
+    display: flex;
+    justify-self: center;
+}
+
+.log{
+    height: 350px;
+}
+
+.logirej {
+    border: groove 20px rgb(255, 208, 147);
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-self: center;
+    row-gap: 25px;
+    align-items: center;
+}
+
+.main {
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.nav {
+    text-align: center;
+    font-size: 50px;
+}
+
+.pole {
+    background-color: beige;
+    font-family: Helvetica;
+    color: darksalmon;
+    border: solid 2px darksalmon;
+    width: 140px;
+    display: flex;
+    justify-self: center;
+}
+
+.przycisk {
+    background-color: beige;
+    font-family: Helvetica;
+    color: darksalmon;
+    border: ridge 7px rgb(255, 208, 147);
+    width: fit-content;
+    height: 40px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rej{
+    height: 450px;
+}
+
+.start {
+    width: 100px;
+    height: 23px;
+}
+
+.wide {
+    width: 100%;
+    justify-self: center;
+}
+
+.wybor {
+    justify-content: space-around;
+    row-gap: 10px;
+    flex-direction: column;
+    display: flex;
+}

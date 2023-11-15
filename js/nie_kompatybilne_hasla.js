@@ -1,0 +1,1 @@
+window.alert("Hasła nie są identyczne, spróbuj ponownie");
