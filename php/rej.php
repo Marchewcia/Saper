@@ -30,4 +30,5 @@ if(isset($_POST["wyslij"])){
         echo '<script src="js/nie_kompatybilne_hasla.js"></script>';
     }    
 }
+//lol
 ?>
