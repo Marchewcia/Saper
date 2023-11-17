@@ -39,7 +39,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -51,7 +51,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -63,7 +63,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -75,7 +75,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -87,7 +87,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -99,7 +99,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -111,7 +111,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -123,7 +123,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -135,7 +135,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
                 <tr>
                     <td><img src="assets/png/1.png"></td>
@@ -147,7 +147,7 @@
                     <td><img src="assets/png/7.png"></td>
                     <td><img src="assets/png/8.png"></td>
                     <td><img src="assets/png/bomb.png"></td>
-                    <td><img src="assets/png/flaga.png"></td>
+                    <td><img src="assets/png/flag.png"></td>
                 </tr>
             </table>
         </div>
