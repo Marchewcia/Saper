@@ -4,12 +4,12 @@ function registering():void{
     $user_password=$_POST["password_reg"];
     $user_password_test=$_POST["password_conf"];
 
-    $user_password=hash($user_password);
+    #$user_password=hash($user_password);
     
     $server="localhost";
     $user="root";
     $password="";
-    $dbname="saper";
+    $dbname="minesweeper";
 
     if($user_password!==$user_password_test){
         echo '<script src="js/registering/uncompatible_passwords.js"></script>';
@@ -33,7 +33,7 @@ function registering():void{
         return;
     }
 
-    $sql="INSERT INTO users values('"$login"', '".$user_password."')";
+    $sql="INSERT INTO users values('".$login."', '".$user_password."')";
 
     if($conn->query($sql)===TRUE){
         echo '<script src="js/registering/register_true.js"></script>';
@@ -44,11 +44,11 @@ function registering():void{
         echo '<script src="js/registering/process_failed.js"></script>';
         return;
     }
+    $conn->close();
+
 }
 if(isset($_POST["submit"])){
     registering();
 }
-
-$conn->close();
 
 ?>
