@@ -26,7 +26,7 @@ function registering():void{
         return;
     }
 
-    $conn= mysqli_connect ($server, $user, $password, $dbname);
+    $conn= new mysqli ($server, $user, $password, $dbname);
 
     if($conn->connect_error){   
         echo '<script src="js/registering/process_failed.js"></script>';
