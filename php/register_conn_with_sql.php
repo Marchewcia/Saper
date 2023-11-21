@@ -45,8 +45,8 @@ function registering():void{
         return;
     }
     $conn->close();
-
 }
+
 if(isset($_POST["submit"])){
     registering();
 }
