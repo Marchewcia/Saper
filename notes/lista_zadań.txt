@@ -16,6 +16,7 @@ baza danych do:
 
 
 mechanizm
+	losowanie bomb po kliknięciu pierwszego pola dopiero(zawsze puste)
 	losowania gdzie są bomby
 	przypisywania numerków na podstawie bomb w pobliżu
 	gdy zostanie otwarta komórka pusta inne puste w danym obrzarze (połączone pośrednio[czyli tylko przez stykanie sięz innymi komórkamipistymi] i bezpośrednio się otwierają)
@@ -39,3 +40,14 @@ gorny pasek
 
 głupotka
 	obsługa j. angielskiego
+
+
+
+
+
+logowanie:
+	sprawdzanie, czy użytkownik istnieje
+	sprawdzanie poprawności hasła
+	przekazywanie variabla do main.php
+	komunikaty jak złe hasło, zły login 
+	somehow przejście z logowanie.html (php) do main.php
